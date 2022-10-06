@@ -1,0 +1,54 @@
+C:\פרויקט\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher_pro.csproj.AssemblyReference.cache
+C:\פרויקט\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher.Form1.resources
+C:\פרויקט\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher_pro.csproj.GenerateResource.cache
+C:\פרויקט\yuli_osher_pro\bin\Debug\net6.0-windows\yuli_osher_pro.exe
+C:\פרויקט\yuli_osher_pro\bin\Debug\net6.0-windows\yuli_osher_pro.deps.json
+C:\פרויקט\yuli_osher_pro\bin\Debug\net6.0-windows\yuli_osher_pro.runtimeconfig.json
+C:\פרויקט\yuli_osher_pro\bin\Debug\net6.0-windows\yuli_osher_pro.dll
+C:\פרויקט\yuli_osher_pro\bin\Debug\net6.0-windows\yuli_osher_pro.pdb
+C:\פרויקט\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher_pro.Properties.Resources.resources
+C:\פרויקט\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher_pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרויקט\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher_pro.AssemblyInfoInputs.cache
+C:\פרויקט\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher_pro.AssemblyInfo.cs
+C:\פרויקט\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher_pro.csproj.CoreCompileInputs.cache
+C:\פרויקט\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher_pro.dll
+C:\פרויקט\yuli_osher_pro\obj\Debug\net6.0-windows\refint\yuli_osher_pro.dll
+C:\פרויקט\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher_pro.pdb
+C:\פרויקט\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher_pro.genruntimeconfig.cache
+C:\פרויקט\yuli_osher_pro\obj\Debug\net6.0-windows\ref\yuli_osher_pro.dll
+\\Mac\Home\Desktop\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher_pro.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher.Form1.resources
+\\Mac\Home\Desktop\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher_pro.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher_pro.dll
+\\Mac\Home\Desktop\yuli_osher_pro\obj\Debug\net6.0-windows\refint\yuli_osher_pro.dll
+\\Mac\Home\Desktop\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher_pro.pdb
+\\Mac\Home\Desktop\yuli_osher_pro\bin\Debug\net6.0-windows\yuli_osher_pro.exe
+\\Mac\Home\Desktop\yuli_osher_pro\bin\Debug\net6.0-windows\yuli_osher_pro.deps.json
+\\Mac\Home\Desktop\yuli_osher_pro\bin\Debug\net6.0-windows\yuli_osher_pro.runtimeconfig.json
+\\Mac\Home\Desktop\yuli_osher_pro\bin\Debug\net6.0-windows\yuli_osher_pro.dll
+\\Mac\Home\Desktop\yuli_osher_pro\bin\Debug\net6.0-windows\yuli_osher_pro.pdb
+\\Mac\Home\Desktop\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher_pro.Properties.Resources.resources
+\\Mac\Home\Desktop\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher_pro.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher_pro.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher_pro.AssemblyInfo.cs
+\\Mac\Home\Desktop\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher_pro.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\yuli_osher_pro\obj\Debug\net6.0-windows\yuli_osher_pro.genruntimeconfig.cache
+\\Mac\Home\Desktop\yuli_osher_pro\obj\Debug\net6.0-windows\ref\yuli_osher_pro.dll
+C:\Users\oshri\OneDrive\שולחן העבודה\osher_project\bin\Debug\net6.0-windows\yuli_osher_pro.exe
+C:\Users\oshri\OneDrive\שולחן העבודה\osher_project\bin\Debug\net6.0-windows\yuli_osher_pro.deps.json
+C:\Users\oshri\OneDrive\שולחן העבודה\osher_project\bin\Debug\net6.0-windows\yuli_osher_pro.runtimeconfig.json
+C:\Users\oshri\OneDrive\שולחן העבודה\osher_project\bin\Debug\net6.0-windows\yuli_osher_pro.dll
+C:\Users\oshri\OneDrive\שולחן העבודה\osher_project\bin\Debug\net6.0-windows\yuli_osher_pro.pdb
+C:\Users\oshri\OneDrive\שולחן העבודה\osher_project\obj\Debug\net6.0-windows\yuli_osher_pro.csproj.AssemblyReference.cache
+C:\Users\oshri\OneDrive\שולחן העבודה\osher_project\obj\Debug\net6.0-windows\yuli_osher.Form1.resources
+C:\Users\oshri\OneDrive\שולחן העבודה\osher_project\obj\Debug\net6.0-windows\yuli_osher_pro.Properties.Resources.resources
+C:\Users\oshri\OneDrive\שולחן העבודה\osher_project\obj\Debug\net6.0-windows\yuli_osher_pro.csproj.GenerateResource.cache
+C:\Users\oshri\OneDrive\שולחן העבודה\osher_project\obj\Debug\net6.0-windows\yuli_osher_pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oshri\OneDrive\שולחן העבודה\osher_project\obj\Debug\net6.0-windows\yuli_osher_pro.AssemblyInfoInputs.cache
+C:\Users\oshri\OneDrive\שולחן העבודה\osher_project\obj\Debug\net6.0-windows\yuli_osher_pro.AssemblyInfo.cs
+C:\Users\oshri\OneDrive\שולחן העבודה\osher_project\obj\Debug\net6.0-windows\yuli_osher_pro.csproj.CoreCompileInputs.cache
+C:\Users\oshri\OneDrive\שולחן העבודה\osher_project\obj\Debug\net6.0-windows\yuli_osher_pro.dll
+C:\Users\oshri\OneDrive\שולחן העבודה\osher_project\obj\Debug\net6.0-windows\refint\yuli_osher_pro.dll
+C:\Users\oshri\OneDrive\שולחן העבודה\osher_project\obj\Debug\net6.0-windows\yuli_osher_pro.pdb
+C:\Users\oshri\OneDrive\שולחן העבודה\osher_project\obj\Debug\net6.0-windows\yuli_osher_pro.genruntimeconfig.cache
+C:\Users\oshri\OneDrive\שולחן העבודה\osher_project\obj\Debug\net6.0-windows\ref\yuli_osher_pro.dll
