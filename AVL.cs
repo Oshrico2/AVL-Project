@@ -185,14 +185,12 @@ namespace AVL1
                 return;
             }
 
-            // Store nodes in Inorder (which is sorted
-            // order for BST)
+
             storeBSTNodes((AVL)root.left, nodes);
             nodes.Add(root);
             storeBSTNodes((AVL)root.right, nodes);
         }
 
-        /* Recursive function to construct binary tree */
         public virtual AVL buildTreeUtil(List<AVL> nodes, int start, int end)
         {
             // base case
@@ -201,94 +199,25 @@ namespace AVL1
                 return null;
             }
 
-            /* Get the middle element and make it root */
             int mid = (start + end) / 2;
             AVL node = nodes[mid];
 
-            /* Using index in Inorder traversal, construct
-               left and right subtress */
+     
             node.left = buildTreeUtil(nodes, start, mid - 1);
             node.right = buildTreeUtil(nodes, mid + 1, end);
             Fix_Height(node);
             return node;
         }
 
-        // This functions converts an unbalanced BST to
-        // a balanced BST
+      
         public virtual AVL buildTree(AVL root)
         {
-            // Store nodes of given BST in sorted order
             List<AVL> nodes = new List<AVL>();
             storeBSTNodes(root, nodes);
 
-            // Constructs BST from nodes[]
             int n = nodes.Count;
             return buildTreeUtil(nodes, 0, n - 1);
         }
-
-        // public int Fix_Balance_Factor(AVL root,int key)
-        // {
-        //     //if (root == null)
-        //     //    return 0;
-        //     //int left = Fix_Balance_Factor((AVL)root.left,key);
-        //     //int right = Fix_Balance_Factor((AVL)root.right,key);
-        //     //root.BF =(left - right);
-        //     //return 1+Math.Max(left, right);
-        //     if (root == null)
-        //         return 0;
-
-        //     return Fix_Height((AVL)root.left) - Fix_Height((AVL)root.right);
-
-
-        // }
-        //public AVL Rotation(AVL root,int key)
-        // {
-        //     int balance = Fix_Balance_Factor(root, key);
-        //         //left left
-        //     if (root.BF > 1 && key < root.left.data)
-        //         return rightRotate((AVL)root);
-        //     if (balance < -1 && key > root.right.data)
-        //         return leftRotate(root);
-        //     if (balance > 1 && key > root.left.data)
-        //     {
-        //         root.left = leftRotate((AVL)root.left);
-        //         return rightRotate(root);
-        //     }
-        //     if (balance < -1 && key < root.right.data)
-        //     {
-        //         root.right = rightRotate((AVL)root.right);
-        //         return leftRotate(root);
-        //     }
-        //     return root;
-
-        // }
-        // AVL rightRotate(AVL y)
-        // {
-        //     AVL x = (AVL)y.left;
-        //     AVL T2 = (AVL)x.right;
-        //     // Perform rotation
-        //     x.right = y;
-        //     y.left = T2;
-        //     // Update heights
-        //     //y.height = Math.Max(Fix_Height((AVL)y.left),
-        //     //            Fix_Height((AVL)y.right)) + 1;
-        //     //x.height = Math.Max(Fix_Height((AVL)x.left),
-        //     //            Fix_Height((AVL)x.right)) + 1;
-        //     Fix_Height(x);
-        //     return x;
-        // }
-        // AVL leftRotate(AVL x)
-        // {
-        //     AVL y = (AVL)x.right;
-        //     AVL T2 = (AVL)y.left;
-        //     // Perform rotation
-        //     y.left = x;
-        //     x.right = T2;
-        //     // Update heights
-        //     Fix_Height(y);
-        //     // Return new root
-        //     return y;
-        // }
 
     }
     [Serializable]
